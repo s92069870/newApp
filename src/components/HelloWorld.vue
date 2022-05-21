@@ -10,7 +10,7 @@ coins, and to verify the transfer of coin ownership. Despite their name, cryptoc
 including classification as commodities, securities, as well as currencies, cryptocurrencies are generally viewed as a distinct asset class in practice.Some crypto schemes use validators to maintain the cryptocurrency. 
 In a proof-of-stake model, owners put up their tokens as collateral. In return, they get authority over the token in proportion to the amount they stake. Generally, these token stakers get additional ownership in the
  token over time via network fees, newly minted tokens or other such reward mechanisms.</p>
- <img src="https://thumbor.forbes.com/thumbor/fit-in/900x510/https://www.forbes.com/advisor/wp-content/uploads/2021/06/how-to-buy-bitcoin.jpeg">
+ <img src="https://ikajo.com/wp-content/uploads/2019/08/Ikajo_29_Cryptocurrency_760x360_2.png" style="width:min-content;height:min-content;">
 
 <p>Cryptocurrency does not exist in physical form (like paper money) and is typically not issued by a central authority.
  Cryptocurrencies typically use decentralized control as opposed to a central bank digital currency (CBDC). When a cryptocurrency is minted or created prior to issuance or issued by a single issuer, 
@@ -29,7 +29,7 @@ The first decentralized cryptocurrency was Bitcoin, which first released as open
 <p>
   Bitcoin can be used for online transactions between individuals and nowadays, there are a lot of merchants that accept Bitcoin as a form of 
   payment unlike before. They range from online retailers like Overstock and Newegg to local shops, bars and restaurants. Bitcoins can also be used to pay for hotels, flights, jewellery, apps and computer parts, or even a college degree.
-  <center><iframe width="560" height="315" src="https://www.youtube.com/embed/YsyueRWoa-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+  <center><iframe width="auto" height="auto" src="https://www.youtube.com/embed/YsyueRWoa-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 </p>
 <h3><u> History Of Cryptocurrency</u></h3>
 <p>
@@ -58,7 +58,7 @@ completing a crackdown on cryptocurrency that had previously banned the operatio
 </p>
 
  <h3>Mining</h3>
-        <center><iframe width="560" height="315" src="https://www.youtube.com/embed/672JlTIQ4RU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+        <center><iframe width="auto" height="auto" src="https://www.youtube.com/embed/672JlTIQ4RU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
         <p>In cryptocurrency networks, mining is a validation of transactions. For this effort, successful miners 
             obtain new cryptocurrency as a reward. The reward decreases transaction fees by creating a complementary
              incentive to contribute to the processing power of the network. The rate of generating hashes, which validate any 
@@ -92,7 +92,7 @@ completing a crackdown on cryptocurrency that had previously banned the operatio
                 built a compound containing 50,000 computers near Ekibastuz.</p>
 
         <h3>GPU Price Rise</h3>   
-        <center><img src="https://imgsrv2.voi.id/xxEzBVXwVD-ueCJDnLuzyquNF0OJ5DXyHoUVKdRrtZM/auto/1200/675/sm/1/bG9jYWw6Ly8vcHVibGlzaGVycy8xMDMzMzgvMjAyMTExMTExODAwLW1haW4ucG5n.jpg" style="width: 560px; height:360px;"/></center>
+        <center><img src="https://qph.fs.quoracdn.net/main-qimg-9bfc144c9308f3e40b4c160bd0219cef-lq" style="width: auto; height:auto;"/></center>
         <p>
             An increase in cryptocurrency mining increased the demand for graphics cards (GPU) in 2017. 
             (The computing power of GPUs makes them well-suited to generating hashes.) Popular favorites of cryptocurrency miners 
