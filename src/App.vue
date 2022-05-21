@@ -3,11 +3,12 @@
       <li><a href="#home" class="active">Home</a></li>
       <li><a href="#aboutus" >About Us</a></li>
       <li><a href="#contactus" >Contact US</a></li>
-      <li><a href="./components/page2.vue" >News</a></li>
+      <li><a href="https://finance.yahoo.com/topic/crypto/" >News</a></li>
+      <li><a href="https://intechlk.blogspot.com/2022/05/digital-moneyemoney.html">සිංහල</a></li>
   </ul>
   
-  <img alt="Vue logo" src="https://image.shutterstock.com/image-photo/golden-bitcoin-on-blue-tech-260nw-1828329179.jpg">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <img alt="Vue logo" src="https://image.shutterstock.com/image-photo/golden-bitcoin-on-blue-tech-260nw-1828329179.jpg" style="width:auto; height: auto;">
+  <HelloWorld msg="Welcome to Crypto page"/>
 </template>
 
 <script>
@@ -58,6 +59,7 @@ export default {
             }
             body{
               background-color: #111;
+              margin: auto;
             }
 
 </style>
