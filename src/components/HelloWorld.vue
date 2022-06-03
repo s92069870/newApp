@@ -1,132 +1,115 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
-     <h3><u>What is the cripto currency</u></h3>
-    <p>A cryptocurrency, crypto-currency, crypto, or coin is a digital currency designed to work as a medium of exchange through a computer network that is not reliant on any central authority, 
-      such as a government or bank, to uphold or maintain it.
+    <p> ඩිජිටල් මුදල් (digital money/emoney), නැතහොත් ක්‍රිප්ටොකරන්සි (cryptocurrency) වර්ග අතර වර්තමානයේ ඉතා ප්‍රචලිතව තිබෙන බිට්කොයින් (Bitcoin),
+       සාම්ප්‍රදායික මුදල් ඒකක වෙනුවට අන්තර්ජාලය හරහා ගනුදෙනු කිරීම පිණිස පමණක් භාවිත කළ හැකි මුදල් වර්ගයකි.</p>
+    <img alt="crypto img" src="https://img.onmanorama.com/content/dam/mm/en/news/business/images/2021/9/16/cryptocurrency-bitcoin.jpg" />  
+    <p>
+      මෙම මුදල් ඒකකය සම්පූර්ණයෙන්ම සංසරණය වන්නේ අන්තර්ජාලය තුළය. මෙය රුපියල්, ඩොලර්, පවුම්,
+       යුරෝ වැනි තවත් මුදල් ඒකකයක් වුව ද Bitcoin වල හැසිරීම පාලනය කිරීමට බැංකුවක්, පුද්ගලයෙක් හෝ ආයතනයක් නැත.
+    </p> 
+    <iframe class="iframe" src="https://www.youtube.com/embed/jkyBQ5zpz78" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <p>එය, දිනෙන් දින වැඩිවන මුදල් අවශ්‍යතා පාලනය කිරීම පිණිස නිර්මාණය කර ගන්නා ලද මුදල් ඒකකයකි. Bitcoin එයටම අනන්‍ය වූ ජාලයක් තුළ සැරිසරන අතර, මෙම මුදල් වර්ගය පරිහරණය කරනු ලබන්නේ එම ජාලයේ පරිශීලකයන් විසිනි.</p>
+    <h2><u>ආරම්භ කළේ කවුද?</u></h2>
+    <p>Bitcoin පිළිබඳව ප්‍රථම යෝජනාව ඉදිරිපත් කළ සතොෂි නකමොටෝ (Satoshi Nakamoto) නම් මෘදුකාංග ඉංජිනේරුවරයා, මෙය අන්තර්ජාලයෙන් ගනුදෙනු කළ හැකි මුදල් ඒකකයක් ලෙස 2009 වර්ෂයේදී හඳුන්වා දුන්නේය.
 
-Individual coin ownership records are stored in a digital ledger, which is a computerized database using strong cryptography to secure transaction records, to control the creation of additional 
-coins, and to verify the transfer of coin ownership. Despite their name, cryptocurrencies are not considered to be currencies in the traditional sense and while varying treatments have been applied to them, 
-including classification as commodities, securities, as well as currencies, cryptocurrencies are generally viewed as a distinct asset class in practice.Some crypto schemes use validators to maintain the cryptocurrency. 
-In a proof-of-stake model, owners put up their tokens as collateral. In return, they get authority over the token in proportion to the amount they stake. Generally, these token stakers get additional ownership in the
- token over time via network fees, newly minted tokens or other such reward mechanisms.</p>
- <img src="https://ikajo.com/wp-content/uploads/2019/08/Ikajo_29_Cryptocurrency_760x360_2.png" style="width:min-content;height:min-content;">
+පාලනාධිකාරියකට යටත් නොවී මුදල් භාවිත කිරීම මෙහි මූලික අරමුණ විය. ඒ පිළිබඳව උනන්දුව දක්වන ලොව පරිගණක විද්‍යාඥයන් සහ තොරතුරු ආරක්ෂණ විශේෂඥයන් මෙය ක්‍රියාත්මක වන Bitcoin source code ජාලය පිළිබඳව නිරන්තරයෙන් අවධානයෙන් පසු වන බව වාර්තා වේ.
 
-<p>Cryptocurrency does not exist in physical form (like paper money) and is typically not issued by a central authority.
- Cryptocurrencies typically use decentralized control as opposed to a central bank digital currency (CBDC). When a cryptocurrency is minted or created prior to issuance or issued by a single issuer, 
- it is generally considered centralized. When implemented with decentralized control, each cryptocurrency works through distributed ledger technology, typically a blockchain, that serves as a public financial transaction database.
- Traditional asset classes like currencies, commodities, and stocks, as well as macroeconomic factors, have modest exposures to cryptocurrency returns.</p>
+මෙය ව්‍යාපාරික ලෝකයේ නවතම ආයෝජන රැල්ල ලෙස ද හඳුන්වා දිය හැකිය.</p>
 
-<p>A cryptocurrency is a tradable digital asset or digital form of money, built on blockchain technology that only exists online. 
-Cryptocurrencies use encryption to authenticate and protect transactions, hence their name. There are currently over a thousand different cryptocurrencies in the world.
+<h2><u>Bitcoin මෘදුකාංග පිටපත් කළ නොහැකිද?</u></h2>
+<img src="https://thumbs.dreamstime.com/b/hacker-hood-laptop-online-network-danger-50560470.jpg"/>
+<p>ලෝකයේ අවධානය දිනා ගත් මේ ඩිජිටල් මුදල් වර්ගය ඉතා සංකීර්ණ මෘදුකාංගයක් වීම හේතුවෙන් එය පිටපත් කිරීම සහ ව්‍යාජ ලෙස නිපදවීම කළ නොහැකි බව විශේෂඥයන්ගේ මතය වී තිබිණ.
 
-Over the last few years, cryptocurrency prices have risen and then fallen. Crypto marketplaces do not guarantee that an investor is completing a purchase or trade at the optimal price. As a result, 
-many investors take advantage of this by using arbitrage to find the difference in price across several markets.
+එහෙත් පසුගිය සතියේ ස්ලෝවේනියානු Bitcoin ජාලයකට අනවසරයෙන් ඇතුළු වූ හැකරුන් Bitcoin 4,700 ක් සොරා ගෙන ඇති අතර එහි වටිනාකම ආසන්න වශයෙන් ඇමරිකානු ඩොලර් මිලියන 80 ක් පමණ වන බවට වාර්තා වේ. මෙම මහා සොරකම මගින් Bitcoin වල වටිනාකම පහළ වැටිය හැකි බවට අනාවැකි පළ වුවත්, ඉන් අනතුරුවත් දිනෙන් දින එහි අගය ඉහළ යාම පිළිබඳව ලොව ආර්ථික විශේෂඥයෝ විශ්මය පළ කරති.</p>
 
-The first decentralized cryptocurrency was Bitcoin, which first released as open-source software in 2009. Since the release of Bitcoin, many other cryptocurrencies have been created.</p>
+<h2><u>ගබඩා කරන්නේ කෙසේද?</u></h2>
+<img src="https://www.planetcompliance.com/wp-content/uploads/2021/02/bitcoin-bch-FvZWeD6FsQM-unsplash-scaled.jpg"/>
+<p>එදිනෙදා සිදු කෙරෙන මූල්‍යමය ගනුදෙනු පිණිස අවශ්‍ය මුදල් අප බොහෝ විට රඳවා තබා ගන්නේ පසුම්බියකය. එම සරළ අදහස ඩිජිටල්කරණය වී, මෘදුකාංගයකින් නිර්මාණය කළ පසුම්බියක Bitcoin රඳවා තබා ගත හැකිය.
 
-<h3><u>What Can We Do With Bitcoin</u></h3>
-<p>
-  Bitcoin can be used for online transactions between individuals and nowadays, there are a lot of merchants that accept Bitcoin as a form of 
-  payment unlike before. They range from online retailers like Overstock and Newegg to local shops, bars and restaurants. Bitcoins can also be used to pay for hotels, flights, jewellery, apps and computer parts, or even a college degree.
-  <center><iframe width="auto" height="auto" src="https://www.youtube.com/embed/YsyueRWoa-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-</p>
-<h3><u> History Of Cryptocurrency</u></h3>
-<p>
-  In 1983, the American cryptographer David Chaum conceived an anonymous cryptographic electronic money called ecash. Later, in 1995, he implemented it through Digicash, an early form of cryptographic electronic payments. 
-  Digicash required user software in order to withdraw notes from a bank and designate specific encrypted keys before it can be sent to a recipient. This allowed the digital currency to be untraceable by the issuing bank, the government, or any third party.</p>
+මෙය Bitcoin Wallet ලෙස හඳුන්වනු ලැබේ. එය 'ඇප්' (App) එකක් වන අතර එම Bitcoin Wallet සේවාවන් ලබා දෙන ආයතන සහ සංවිධාන මේ වන විට ලෝකය පුරා විශාල ප්‍රමාණයක් ආරම්භ කර තිබේ.
 
-<p>In 1996, the National Security Agency published a paper entitled How to Make a Mint: the Cryptography of Anonymous Electronic Cash, describing a Cryptocurrency system, first publishing it in an MIT mailing listand later in 1997, in The American Law Review (Vol. 46, Issue 4).<br>
+ඒ අතරින් සිය ආයෝජන සඳහා විශ්වසනීය ආයතනයක් තෝරා ගැනීම පාරිභෝගිකයා සතු වගකීමකි. කිසිවෙකු Bitcoin වලින් ගනුදෙනු කිරීම ආරම්භ කළ පසු ඒ සියලු ගනුදෙනු පිළිබඳ විස්තරාත්මක සටහන් මෙම Bitcoin Wallet හි සඳහන් වේ.</p>
+<h2><u>Bitcoin මිලදී ගන්නේ කෙසේ ද?</u></h2>
+<iframe class="iframe" src="https://www.youtube.com/embed/LT11vRRrMfg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p>ක්‍රෙඩිට් කාඩ් පත භාවිත කරමින් Bitcoin මිලදී ගත හැකි වුවත්, මේ වන තුරු ශ්‍රී ලංකාවට එම පහසුකම ලබා දී නැත. මේ හේතුවෙන් ශ්‍රී ලාංකික ආයෝජකයෙකුට දැනට Bitcoin මිලදී ගත හැකි වන්නේ ඒවා හුවමාරු කරන (Exchange) ආයතනයක් හෝ සංවිධානයක් හරහා පමණි.</p>
+<p>ඩිජිටල් මුදල් වලට ඇති ඉතා ඉහළ ඉල්ලුම හේතුවෙන් පැය ගණනක් ඇතුළත Bitcoin වල වටිනාකම ඉහළ ගිය අවස්ථා දැකිය හැකි විය. වරක් Bitcoin එකක මිල ඇමරිකානු ඩොලර් 18,000 ක් ලෙස වාර්තා වුවත් පසුව එම අගය නැවත ඇමරිකානු ඩොලර් 13,963 දක්වා පහත වැටී ඇති බව දකින්නට ලැබිණ.</p>
+<p>Bitcoin ඒකකයක් සෑදී ඇත්තේ කුඩා කොටස් 100,000,000 කිනි. මෙය සත හෝ පැන්සවල එකතුවකින් ඉහළ අගයක් ඇති මුදලක් සෑදෙනවා හා සමානය.</p>
+<p>මේ හේතුවෙන් Bitcoin ඉතා කුඩා ප්‍රමාණයක් පවා මිලදී ගැනීමේ හැකියාව ද තිබේ. කිසිවෙකුට මිලදී ගත හැකි කුඩාම Bitcoin ප්‍රමාණය 0.00000001 ක් වන අතර මෙම කුඩාම ඒකකය හඳුන්වනු ලබන්නේ Satoshi යන නමිනි.</p>
+<h2><u>එදිනෙදා ගනුදෙනු කළ හැකි ද?</u></h2>
+<p>තමන් මිලදී ගන්නා භාණ්ඩ හෝ සේවාවන්ට Bitcoin වලින් ගෙවීම් කළ හැකි ආයතන, අවන්හල් සහ වෙබ් අඩවි ගණනාවක් තිබෙන අතර දුරකථනය හෝ පරිගණකය භාවිත කර ගිණුම් අතර මුදල් මාරු කර (transfer) ඒ සඳහා ගෙවීම් කළ හැකිය.</p>
+
+<h2><u>Bitcoin වල විශේෂ ලක්ෂණ</u></h2>
+<p>ඉතා සංකීර්ණ ඩිජිටල් තාක්ෂණික ක්‍රියාවලියක් වන Bitcoin mining හරහා Bitcoin නිර්මාණය කරන ආයතන හෝ පුද්ගලයන් හඳුන්වන්නේ Bitcoin miners යන නමිනි. Bitcoin source code හරහා පනවා ඇති සීමාවන්ට අනුව ලෝකයේ සංසරණය විය යුත්තේ මිලියන 21ක Bitcoin ප්‍රමාණයක් පමණය.
+
+Bitcoin කිසිම පුද්ගලයෙකුට, බැංකුවකට, ආයතනයකට හෝ සංවිධානයකට අයත් නොමැති වීම මෙහි ඇති විශේෂත්වයය.</p>
+<p>Bitcoin හි ප්‍රධාන ලෙජරය Block Chain නමින් හඳුන්වනු ලබන අතර එම ජාලය ඇතුළත සිදුවන සියලු ගනුදෙනු මෙම ලෙජරයේ ස්වයංක්‍රීයව සටහන් වේ. මේ හේතුවෙන් ලෝකයේ නන් දෙස සිදුවන Bitcoin ගනුදෙනු එහි සිටින සියලු ආයෝජකයන්ට 100% ක්ම විවෘතව දැක ගත හැකිය. නමුත් Block Chain ලෙජරයේ තිබෙන ගිණුම් හිමියන්ගේ විස්තර කිසිදු ආකාරයකින් හෙළිදරවු නොවේ. අන්වර්ථ නාමයක් යටතේ වුවද Bitcoin ගිණුමක් පවත්වාගෙන යා හැකිය. මෙම ජාලය Bitcoin ගිණුම් හිමියන් හඳුනාගන්නේ එම මෘදුකාංගයට අනන්‍ය වූ විශේෂ ක්‍රමවේදයක් හරහාය.</p>
+<p>කිසිම මූල්‍ය ආයතනයක හෝ බැංකුවක සහාය නොමැතිව ලෝකයේ ඕනෑම රටකට ඕනෑම මුදල් ප්‍රමාණයක් සැණින් යැවීමේ හැකියාව Bitcoin වල තවත් සුවිශේෂි ලක්ෂණයකි. රටකින් රටකට මුදල් ගෙන්වා ගැනීමේදී හෝ මාරු කිරීමේදී අනුගමනය කරන සාමාන්‍ය ක්‍රම සහ නීති රීති Bitcoin ගනුදෙනු වලට අදාළ නොවේ. මේ හේතුවෙන් Bitcoin වලින් ගනුදෙනු කිරීමේදී කිසිවෙකුට සේවා ගාස්තු හෝ අතිරේක ගෙවීමක් සිදු කළ යුතු නොවේ.</p>
+<p>මේ ආකාරයෙන් Bitcoin වලින් සිදුවන ගනුදෙනුවක් ආපසු හැරවීමක් නැතහොත් නැවත ඉල්ලා ගැනීමක් කළ නොහැකිය. වැරදි Bitcoin ප්‍රමාණයක් යම් අයකුට ලබා දුන්නේ නම් එම පුද්ගලයා සිය කැමැත්තෙන් නැවත එය ලබා දීමක දී හැර, අන් අවස්ථාවක දී පාඩුව දරා ගැනීමට සිදු වේ.</p>
+<img src="https://en.cryptonomist.ch/wp-content/uploads/2021/09/bitcoin-speed.jpg"/>
+<p><b>"වේගයෙන් ආරෝපණය වෙමින් තිරිංග නොමැතිව ධාවනය වන දුම්රියකට"</b> සමාන කර ඇති Bitcoin හි ඉහළ යන අගය පිළිබඳ ලෝකයේ ආර්ථික විශේෂඥයන් අනතුරු අඟවා ඇත.
+
+එය වේගයෙන් පිම්බෙන බෝලයකට සමාන කරන සමහරු මෙම බෝලය කෙදිනක හෝ පිපිරීමකට ලක් වෙනු ඇතැයි සැක පහළ කරති.
+
+මෙහි තිබෙන අවදානම නිසාම Bitcoin ආයෝජනය එක්තරා "සූදු කෙළියක්" ලෙසින් ද විග්‍රහ කෙරේ. මුදල් බිලියන ගණනක් මෙහි ආයෝජනය කර ඇති නමුත් Bitcoin ජාලයේ සම්පුර්ණ වටිනාකම වන ඇමරිකානු ඩොලර් බිලියන 268 ලෝක ආර්ථිකයත් සමග සංසන්දනය කිරීමේ දී ඉතා කුඩා අගයකි. එබැවින් කිසියම් අවස්ථාවකදී මෙය බිඳ වැටුනහොත් එයින් ලෝක ආර්ථිකයට බල පෑමක් නොවන බව එක් ආර්ථික විශ්ලේෂකයෙකුගේ මතය වී තිබේ.</p>
+<p>චීනය, ඉන්දියාව, එක්සත් රාජධානිය ඇතුළු රටවල් කිහිපයක් මේ වන විටත් Bitcoin ආයෝජකයන්ට අනතුරු අඟවා ඇති අතර, චීනයේ ප්‍රධාන පෙළේ Bitcoin හුවමාරු කරන (Exchange) ආයතනයක් වන BTCC පසුගිය සැප්තැම්බර් මස අවසානයේ දී සියලු ගනුදෙනු නතර කිරීමට පියවර ගත්තේය.
+
+කෙසේ වෙතත් පසුගියදා ඇමරිකාවේ චිකාගෝ නුවර ප්‍රධාන පෙළේ මුදල් හුවමාරු කරන CBOE ආයතනය Bitcoin ගනුදෙනු ආරම්භ කිරීමත් සමගම මෙම පෙරළිකාර ඩිජිටල් මුදල් වර්ගයට තවත් වටිනාකමක් සහ වැඩි ආරක්ෂාකාරී බවක් අත් වී තිබේ.</p>
+<p>ගොඩක් අය crypto currency ගැන දන්නව. නැත්නම් අඩුමගානේ ඒක මොනවගේ දෙයක්ද කියල දන්නව. හැබැයි ගොඩක් අය දන්නේ නැත්තේ මොකක්ද මේ “Crypto Mining” කියල.
+
+දැනට තියනවනේ සියගානක් ක්‍රිප්ටෝ මුදල් ඒකක. හැම එකේම වගේ මයින් වෙන ක්‍රමය මූලිකව එකයි. යම් යම් වෙනස්කම් තියනව එකින් එකට. ඒනිසා මං ජනප්‍රියම හා වටිනාම ක්‍රිප්ටෝ ඒකකය වෙන බිට්කොයින් මයින් වෙන විදිහ කියන්නම්. එතකොට අනිත් ඒව වෙන්නෙ කොහොමද කියල අදහසක් ගන්න පුළුවන්.
+
+මේක රත්තරන් ගරනව වගේම වැඩක්. මහපොලොවේ රත්තරං තියනවනේ. ඒක හාරල පිරිසිදු කරල ගන්න එකනෙ අමාරු.
+
+පොලොවෙ රත්තරං තියනව වගේම බිට්කොයින් ප්‍රොටෝකෝල් එකේ බිට්කොයින් තියනව. ප්‍රොටෝකෝල් එකෙන් බිට්කොයින් නිපදවීම තමා මයිනින්ග් කියල කියන්නේ.
+
+(බිට්කොයින් ප්‍රොටෝකෝල් එකේ බිට්කොයින් උපරිම මිලියන 21ක් දරාගන්න පුළුවන්.)
+
+බිට්කොයින් බ්ලොක් චේන් එක කියන්නේ මොකක්ද කියල සමහරුන්ට ප්‍රශ්නයක් වෙන්න ඇති.
+
+බ්ලොක්චේන් කියන්නේ අතිශය සුවිශේෂී තාක්ශණයක්. Satoshi Nakamoto කියන ෆේක් නේම් එකෙන් හිටපු කෙනාගේ නිර්මාණයක් තමා බ්ලොක්චේන් කියන්නේ. (මෙයා තමා බිට්කොයින් නිර්මාණය කලේ. අදටත් මේ කව්ද කියල දන්නෑ. බිට්කොයින් වල අඩුම මුදල් ඒකකය සටොශි කියල නම් කරල තියෙන්නෙ මෙයා වෙනුවෙන්.)</p>
+<h2><u>බ්ලොක්චේන් එකක් වැඩ කරන්නේ මෙහෙමයි.</u></h2>
+<img src="https://image.cnbcfm.com/api/v1/image/107061547-1652704823966-gettyimages-1322421028-binary-chain.jpeg?v=1652704884&w=929&h=523&ffmt=webp"/>
+<p>හිතන්න ඔයාගාව ලෙජර් එකක් තියනව. ඔයා ඒකේ 100% නිවරදි කොපියක් කීප දෙනෙක්ට දෙනව. එයාල ඒක තවත් කීප දෙනෙක්ට කොපි කරල දෙනව. මේ කොපිවල නිවරදි බව තහවුරු කරන්න මෙයාලා තම තමංගෙ කොපි අනිත් අය එක්ක සසඳනව. අව්ලක් තියනවනම් තියන මුලු කොපි වලින් 51%ක තියන දත්ත නිවරදි දත්ත ලෙස සලකල අනිත් කොපි වල දත්ත නිවරදි කරනව.</p>
+<p>හිතන්න දැවැන්ත ඩේට බේස් එකක් මේ විදිහට මිලියනයක් අතර බ්ලොක්චේන් ක්‍රමේට බෙදල දුන්න කියල. එතකොට කව්රුහරි සිතාමතා ඩේටාබේස් එක විකෘති කලා කියල හිතන්න. එතකොට ඒක පට්ගාලා අහුවෙනව. මොකද මේ ඔක්කෝම ඩේට බේස් එකිනෙකා සමඟ සම්බන්ධ නිසා නිතරම ඩේට නිවරදිද කියල චෙක් කරන නිසා. ඒනිසා බ්ලොක්චේන් එකක තියන ඩේට බේස් එකක් විකෘති කරන්න බැහැ. (හැබැයි තනි කෙනෙක් මේ ඩේටාබේස් වලින් 51%ට වඩා ප්‍රමාණය පාලනය කරනව නම් ඔහුට පුළුවන් වෙනස් කරන්න. මේකට අපි කියනව 51% Attack කියල)
+
+මේකේ තේරුම තමා බ්ලොක්චේන් කියන්නේ කාටවත් අයිතියක් නැති දෙයක්. තනි පුද්ගලයකු විසින් පාලනය නොකරන දෙයක්. විසිරී පවතින්නක්.</p>
+<p>බිට්කොයින් බ්ලොක්චේන් එක කියන්නේ බිට්කොයින් ගනුදෙනු, ප්‍රොටෝකෝලය වගේ දත්ත තියන ඩේටා ස්ට්‍රක්චර් එකේ බ්ලොක්චේන් එක. මේ හේතුව නිසා බිට්කොයින් කව්රුහරි පාලනය කරන දෙයක් නෙවෙයි.
+
+බිට්කොයින් නෙට්වර්ක් එකේ තියනව “Nodes” කියල දෙයක්. මේව සාමාන්‍යය කම්පියුටර්. මේවයි තමා අර බිට්කොයින් ලෙජර් එක තියෙන්නෙ. මෙයාල බිට්කොයින් බ්ලොක්චේන් එකේ කොටසක්.
+
+ඕනම කෙනෙක්ට බිට්කොයින් නෝඩ් එකක් වෙන්න පුළුවන්. බිට්කොයින් සොෆ්ට්වෙයා එක ඩවුන්ලෝඩ් කරගන්න ඊටපස්සේ ඕන වෙන්නේ 145GB හිස් ඉඩක් විතරයි. (මේක ඩවුන්ලෝඩ් කරන්න නෙට්වර්ක් කනෙක්ෂන් එකක් ඕන. ඊට පස්සේ එච්චර ඩේට යන්නේ නෑ). (145GB තමා බිට්කොයින් ස්ට්‍රක්චර්/ලෙජර් එක)
+
+කෙනෙක් මෙහෙම නෝඩ් එකක් හදාගත්තම ඒ නෝඩ් එක තවත් නෝඩ් කීපයක් එක්ක කනෙක්ෂන් එකක් හදාගන්නව. අන්න බ්ලොක්චේන් එකට කනෙක්ට් උනා. දැන් මේ ඩේට වෙනස් කරන්න බැහැ තනි කැමැත්තට. වෙනසක් උන ගමන් අනිත් නෝඩ් වලින් අහල වැරැද්ද නිවරදි කරගන්නව.
+
+බිට්කොයින් වල මේ ලෙජර් එක තියෙන්නෙ බ්ලොක් බ්ලොක් විදිහට. (වගුවක වගේ) මේ නෝඩ්ස් වලින් සමහර නෝඩ්ස් තියනව මයිනින්ග් නෝඩ්ස්. මේන් මේව තමා බිට්කොයින් මයින් කරන්නේ.</p>
+<p>සරලව කිව්වොත් බිට්කොයින් ප්‍රොටෝකෝල් එකේ තියම ගණිතමය ගැටලුවකට අවශ්‍ය සංක්‍යාත්මක පිලිතුර පරිඝණකයෙ CPU,GPU පාවිච්චි කරල ගණනය කිරීම. ලේසී වගේ නේ?</p>
+<img alt="crypto mining" src="https://imgsrv2.voi.id/xxEzBVXwVD-ueCJDnLuzyquNF0OJ5DXyHoUVKdRrtZM/auto/1200/675/sm/1/bG9jYWw6Ly8vcHVibGlzaGVycy8xMDMzMzgvMjAyMTExMTExODAwLW1haW4ucG5n.jpg"/>
+<p>මේ අගය බ්ලොක් එකට සෙට් කරල හෑශ් ෆන්ශන් එකක් ඇතුලෙන් රන් කලාම එන අගය 0ත් 4,294,967,296ත් අතර පිහිටන අගයක් වියයුතුයි. (මේ රේන්ජ් එක බිට්කොයින් වලට. අනිත් ඒවට වෙනස් රේන්ජ් එකක් එන්නෙ)
+
+මේ අගය හොයන්නේ අහඹු අගයන් දම දමා බලල. හෑශ් එකෙන් ගියාම එලියට එන අගය අනුමාන කිරීම කරන්න බැරි වැඩක්. ඒනිසා කණා පොල්ලන් ගහ ගහ බලල තමා අගය හොයන්නේ. මුලින් නිශ්චිත බිංදු ගානක් දෙනව ප්‍රොටෝකෝල් එකෙන් මේන් මේකෙන් පටන් ගනින් කියල.
+
+එකම මොහොතේ එකම බ්ලොක් එකට මයිනර්ල කීපදෙනෙක් ට්‍රයි කරනවනේ. එතකොට මුලින්ම මේ අගය හොයාගන්න කෙනා ක්ශණිකව බ්ලොක්චේන් එකට කියනව එයා අගය හොයාගත්ත බව. එතකොට අනිත් මයිනර්ල ඒ බ්ලොක් එක ඇතෑරලදාලා ඊලඟ එක පටන් ගන්නව. අර අගය හොයාගත්ත කෙනාට යම් බිට්කොයින් ප්‍රමාණයක් ලැබෙනව.
+
+කාලයත් එක්ක මේ දෙන බිංදු ගාන වෙනස් කරනව. එතකොට මේ ගැටලුව විසඳන එක අමාරු වෙනව. ඒකයි දැන් එන්න එන්නම බිට්කොයින් මයින් කරන්න අමාරු.
+
+ඒවගේම බ්ලොක් එකක් විසඳුවාම විසඳපු කෙනාට දෙන බිට්කොයින් ප්‍රමාණය කාලෙන් කාලෙට අඩුවෙනව. ඉස්සරහ නම් දුන්න ලොට් එකක්. දැන් නම් ලැබෙන්නෙ බිට්කොයින් 12.5ක් විතරයි. තව කාලෙකින් මේක 6.25ක් වෙනව.</p>
+<p>මේකට හේතුව තමා අතිශය ඉක්මනින් සම්පූර්ණ බිට්කොයින් බ්ලොක් ඔක්කෝම පිරෙන එක නවත්තන එක. මේ නිසා බිට්කොයින් චේන් එක පිරෙන්නේ 2140දි විතර!
+
+නමුත් කාලයත් එක්ක මේ මයිනින්ග් අමාරු වෙන නිසා සාමාන්‍යය කම්පියුටර් වලින් බිට්කොයින් මයින් කරන්න බැරිවෙලා තියනව. දැන් බිට්කොයින් මයින් කරන්න දැවැන්ත ප්‍රොසෙසින් පවර් එකක් ඕන. අනාගතයේදී මේක තව අමාරු වෙනව.
+
+එතකොට වැයවන විදුලි බිල, උපාංග වියදම කවර්කරගන්න ලැබෙන බිට්කොයින් වලින් බැරිවෙනව සාමාන්‍යය යූසර්ලට. එතකොට මයින් කරන්න වෙන්නේ පූල් වලින්. පූල් කියන්නේ සාමාන්‍යය කම්පියුටර් දහස් ගානල් එකතුකරල හදපු නෙට්වර්ක් එකක්. මේවයින් බ්ලොක් බෙදාගෙන විසඳනව.
+
+සමහරු මැල්වෙයා පාවිච්චි කරනව පූල් හදන්න. නැත්නම් වෙබ්සයිට් වල ස්ක්‍රිප්ට් පාවිච්චි කරනව යූසර්ල වෙබ් පේජ් එක ඕපන් කලාම එයාගේ CPU එක පාවිච්චි වෙලා Mine වෙන්න. (උදා: Piratebay)
+
+සමහර ක්‍රිප්ටෝ කොයින් තියනව අඩු හීප් එකක් (අඩු ප්‍රොසෙසින් පවර් එකක් ඕන) තියන. මේව මයින් කරන්න පාවිච්චි කරන්න පුළුවන් Smart Phones. සමහර ඇප්ස් වල මේ වගේ ක්‍රිප්ටො මයිනර් බයින්ඩ් කරල එවනව. ඩිවයිස් මිලියනයක පූල් එකකින් හොඳට ගරන්න පුළුවන්…</p>
 
 
-<br>In 1998, Wei Dai published a description of "b-money", characterized as an anonymous, distributed electronic cash system. Shortly thereafter, Nick Szabo described bit gold. Like Bitcoin and other cryptocurrencies that would follow it, 
-bit gold (not to be confused with the later gold-based exchange, BitGold) was described as an electronic currency system which required users to complete a proof of work function with solutions being cryptographically put together and published.<br>
-
-<br>In 2009, the first decentralized cryptocurrency, Bitcoin, was created by presumably pseudonymous developer Satoshi Nakamoto. It used SHA-256, a cryptographic hash function, in its proof-of-work scheme. In April 2011, Namecoin was created as
- an attempt at forming a decentralized DNS, which would make internet censorship very difficult. Soon after, in October 2011, Litecoin was released which used scrypt as its hash function instead of SHA-256. Another notable cryptocurrency,
-  Peercoin, used a proof-of-work/proof-of-stake hybrid.<br>
-
-<br>On 6 August 2014, the UK announced its Treasury had commissioned a study of cryptocurrencies, and what role, if any, they could play in the UK economy. The study was also to report on whether regulation should be considered.
- Its final report was published in 2018, and it issued a consultation on cryptoassets and stablecoins in January 2021.<br>
-
-<br>In June 2021, El Salvador became the first country to accept Bitcoin as legal tender, after the Legislative Assembly had voted 62–22 to pass a bill submitted by President Nayib Bukele classifying the cryptocurrency as such.<br>
-
-<br>In August 2021, Cuba followed with Resolution 215 to recognize and regulate cryptocurrencies such as Bitcoin.<br>
-
-<br>In September 2021, the government of China, the single largest market for cryptocurrency, declared all cryptocurrency transactions illegal, 
-completing a crackdown on cryptocurrency that had previously banned the operation of intermediaries and miners within China.
-</p>
-
- <h3>Mining</h3>
-        <center><iframe width="auto" height="auto" src="https://www.youtube.com/embed/672JlTIQ4RU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-        <p>In cryptocurrency networks, mining is a validation of transactions. For this effort, successful miners 
-            obtain new cryptocurrency as a reward. The reward decreases transaction fees by creating a complementary
-             incentive to contribute to the processing power of the network. The rate of generating hashes, which validate any 
-             transaction, has been increased by the use of specialized machines such as FPGAs and ASICs running complex hashing
-              algorithms like SHA-256 and scrypt. This arms race for cheaper-yet-efficient machines has existed since Bitcoin was 
-              introduced in 2009.[57]</p>
-
-          <p> With more people venturing into the world of virtual currency, generating hashes for validation has become more 
-              complex over time, forcing miners to invest increasingly large sums of money to improve computing performance. 
-              Consequently, the reward for finding a hash has diminished and often does not justify the investment in equipment 
-              and cooling facilities (to mitigate the heat the equipment produces), and the electricity required to run them. 
-              Popular regions for mining include those with inexpensive electricity, a cold climate, and jurisdictions with clear and
-               conducive regulations. By July 2019, Bitcoin's electricity consumption was estimated to be approximately 7 gigawatts, 
-               around 0.2% of the global total, or equivalent to the energy consumed nationally by Switzerland.</p>
-            
-         <p>   Some miners pool resources, sharing their processing power over a network to split the reward equally, 
-             according to the amount of work they contributed to the probability of finding a block. A "share" is awarded to members of
-              the mining pool who present a valid partial proof-of-work.</p>
-            
-          <p>  As of February 2018, the Chinese Government has halted trading of virtual currency, banned initial coin 
-              offerings and shut down mining. Many Chinese miners have since relocated to Canada and Texas.[61] One company 
-              is operating data centers for mining operations at Canadian oil and gas field sites, due to low gas prices. In June 2018
-              , Hydro Quebec proposed to the provincial government to allocate 500 Megawatts of power to crypto companies for mining.
-              According to a February 2018 report from Fortune, Iceland has become a haven for cryptocurrency miners in part because of its cheap
-               electricity.</p>
-            
-          <p>  In March 2018, the city of Plattsburgh in upstate New York put an 18-month moratorium on all cryptocurrency mining in an effort to
-               preserve natural resources and the "character and direction"
-               of the city. As of February 2022, Kazakhstan became the second-biggest crypto-currency mining country, producing 18.1% of the
-                global hash rate. The country has
-                built a compound containing 50,000 computers near Ekibastuz.</p>
-
-        <h3>GPU Price Rise</h3>   
-        <center><img src="https://qph.fs.quoracdn.net/main-qimg-9bfc144c9308f3e40b4c160bd0219cef-lq" style="width: auto; height:auto;"/></center>
-        <p>
-            An increase in cryptocurrency mining increased the demand for graphics cards (GPU) in 2017. 
-            (The computing power of GPUs makes them well-suited to generating hashes.) Popular favorites of cryptocurrency miners 
-            such as Nvidia's GTX 1060 and GTX 1070 graphics cards, as well as AMD's RX 570 and RX 580 GPUs, doubled or tripled in
-             price – or were out of stock. A GTX 1070 Ti which was released at a price of $450 sold for as much as $1100. 
-             Another popular card, the GTX 1060 (6 GB model) was released at an MSRP of $250, and sold for almost $500. RX 570
-              and RX 580 cards from AMD were out of stock for almost a year. Miners regularly buy up the entire stock of new GPU's as
-               soon as they are available.</p>
-
-        <p>
-              Nvidia has asked retailers to do what they can when it comes to selling GPUs to gamers instead of miners.
-               "Gamers come first for Nvidia," said Boris Böhles, PR manager for Nvidia in the German region.
-        </p>
-        <h3>
-            What is Blockchain and how does it work ? 
-        </h3>
-        <p>In the instance of cryptocurrencies this is where Blockchain comes in. 
-            Blockchain is a public ledger of all transactions that have ever happened within a network, 
-            available to everyone. This means that everyone in the network can see every account’s balance, allowing the 
-            digital currency to operate independently of a central bank. In order for a cryptocurrency network to work,
-             all participants must be in agreement about the legitimacy of balances and transactions.</p>
-        <h3>
-            Blockchain in healthcare
-        </h3>   
-        <p>There are many ways blockchain technology can improve the design and deployment of 
-            European Electronic Health Records. For example, blockchain can improve the security of patients records,
-             store consent – reducing administrative burden- and optimise the nursing profession.
-             <a href="https://www.openaccessgovernment.org/blockchain-based-technologies-for-sustainable-eu-healthcare-ecosystems/77617/">Read More</a>
-        </p> <br><br><br><br><br><br><br>
-
- <div class="footer">
-           <p>Created by <a href="https://olq0czzynhy6uvncc3ckyw.on.drv.tw/www.Thanushalk.com/MY%20CV.html">Thanusha Deemantha</a></p>
- </div>
   </div>
+  <footer>
+     <p class="ft">&copy;From <a href="https://www.cryptopage.tk/">cryptopage</a></p>
+     <p class="ft">Create by <a href="https://olq0czzynhy6uvncc3ckyw.on.drv.tw/www.Thanushalk.com/MY%20CV.html">Thanusha Deemantha</a></p>
+  </footer>
 </template>
 
 <script>
@@ -140,27 +123,38 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
-  p{
-  text-align: left;
-  text-transform:capitalize;
-  font-size: small;
-  padding-left: 10%;
-  color: whitesmoke;
-}
+
 h1{
   color: whitesmoke;
 }
-h3{
+h2{
   color: whitesmoke;
-}
-.footer {
-  position: fixed;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  background-color:yellow;
-  color: rgb(221, 9, 9);
   text-align: center;
-              
+}
+p{
+  color: whitesmoke;
+  margin: auto;
+  padding: 10px;
+  text-indent: 50px;
+  text-align: justify;
+  letter-spacing: 1px;
+}
+img{
+  height: auto;
+  width: 100%;
+  max-width: 720px;
+}
+.iframe{
+  width:auto;
+  height:auto;  
+}
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: yellow;
+  
+}
+.ft{
+  color: red;
 }
 </style>
